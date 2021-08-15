@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Pranit . Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://giphy.com/gifs/geekinc-helloworld-programmation-srhelloworld-NHvv0Bo3oGq1eTBDd1" width = 100px></h2>
+<h2> About Me <img src = "" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DINufd40iCcjOgKwa4YlwUZ-_GSx4uKFVg&usqp=CAU" />
 
