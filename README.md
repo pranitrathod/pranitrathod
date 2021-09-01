@@ -24,7 +24,7 @@
 
 - 💬 I like to know or talk about Java, JavaScript, Python, DS,Cpp ,Open source and some cool frameworks  
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/pranitrathod?tab=repositories&q=&type=&language=java&sort= > <img width ='25px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
  <a href= https://github.com/pranitrathod?tab=repositories&q=&type=&language=python&sort= > <img width ='25px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/pranitrathod?tab=repositories&q=&type=&language=javascript&sort= > <img width ='25px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -36,7 +36,7 @@
  <a href= https://github.com/pranitrathod?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='25px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/pranitrathod?tab=repositories&q=&type=&language=android&sort= > <img width ='25px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
   <a href= https://github.com/pranitrathod?tab=repositories&q=&type=&language=xd&sort= > <img width ='25px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>
-  
+   -->
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://www.facebook.com/pranit.rathod.585/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranit rathod" height="30" width="40" /></a>
