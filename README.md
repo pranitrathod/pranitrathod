@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DINufd40iCcjOgKwa4YlwUZ-_GSx4uKFVg&usqp=CAU" />
 
 
-- 🔭 I’m currently working on nothing LOL
+- 🔭 I’m currently working on new project which soon will be publish.
 
-- 🌱 I’m currently learning on some new trending framework 
+- 🌱 I’m currently learning some new trending framework.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles,open source project,blog  
 
