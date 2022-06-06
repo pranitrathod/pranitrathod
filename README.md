@@ -2,7 +2,7 @@
 <img width="100%" height = "300px" src="https://raw.githubusercontent.com/pranitrathod/R-Notes/main/pexels-photo-1779487.jpeg" alt="cover" />
 </div>
 
-<h1> Namaste Friends <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5px> </h1>
+<h1> Namaste Friends <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width =50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pranitrathod.pranitrathod)
@@ -43,6 +43,6 @@
 <a href="https://instagram.com/@pranit._rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pranit._rathod" height="30" width="40" /></a>
 </p>
 
- <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+ <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
