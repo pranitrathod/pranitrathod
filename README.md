@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100px" src="https://raw.githubusercontent.com/pranitrathod/R-Notes/main/pexels-photo-1779487.jpeg" alt="cover" />
+<img width="100%" height = "300px" src="https://raw.githubusercontent.com/pranitrathod/R-Notes/main/pexels-photo-1779487.jpeg" alt="cover" />
 </div>
 
 <h1> Namaste Friends!</h1>
