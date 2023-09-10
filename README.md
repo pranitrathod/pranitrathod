@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=pranitrathod)
+
 - 🔭 I’m currently working on new project which soon will be publish.
 
 - 🌱 I’m currently learning some new trending framework.
