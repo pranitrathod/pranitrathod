@@ -11,4 +11,4 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=pranitrathod)
 
-
+[![An image of @pranitrathod's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranitrathod)](https://holopin.io/@pranitrathod)
