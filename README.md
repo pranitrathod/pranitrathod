@@ -9,6 +9,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 <br>
-![](https://komarev.com/ghpvc/?username=pranitrathod)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranitrathod.pranitrathod)
 
 [![An image of @pranitrathod's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranitrathod)](https://holopin.io/@pranitrathod)
